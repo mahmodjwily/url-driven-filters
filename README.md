@@ -21,3 +21,8 @@ git clone https://github.com/mahmoudjwily/url-driven-filters.git
 cd url-driven-filters
 npm install
 npm run dev
+```
+
+## 🔗 Live Demo
+
+Check out the live demo here: [url-driven-filters.vercel.app](https://url-driven-filters.vercel.app/)
