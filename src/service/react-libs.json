@@ -1,0 +1,190 @@
+[
+  {
+    "title": "react",
+    "description": "A JavaScript library for building user interfaces."
+  },
+  {
+    "title": "react-dom",
+    "description": "Provides DOM-specific methods for React."
+  },
+  {
+    "title": "react-router-dom",
+    "description": "Declarative routing for React web apps."
+  },
+  {
+    "title": "react-query",
+    "description": "Powerful data-fetching and caching for React."
+  },
+  {
+    "title": "react-hook-form",
+    "description": "Performant, flexible forms with hooks."
+  },
+  {
+    "title": "formik",
+    "description": "Build forms in React, without the tears."
+  },
+  {
+    "title": "react-table",
+    "description": "Lightweight, fast, and extendable data grids."
+  },
+  {
+    "title": "react-select",
+    "description": "A flexible select input control for React."
+  },
+  {
+    "title": "react-toastify",
+    "description": "Beautiful, customizable toast notifications."
+  },
+  {
+    "title": "react-icons",
+    "description": "Include popular icons in React apps easily."
+  },
+  {
+    "title": "react-helmet",
+    "description": "Manage document head using React components."
+  },
+  {
+    "title": "react-spring",
+    "description": "Physics-based animations for React."
+  },
+  {
+    "title": "framer-motion",
+    "description": "Powerful animations and gestures for React."
+  },
+  { "title": "react-dnd", "description": "Drag and drop for React." },
+  {
+    "title": "react-beautiful-dnd",
+    "description": "Beautiful, accessible drag-and-drop experience."
+  },
+  {
+    "title": "zustand",
+    "description": "A small, fast state-management library."
+  },
+  {
+    "title": "recoil",
+    "description": "Experimental state management for React apps."
+  },
+  {
+    "title": "jotai",
+    "description": "Primitive and flexible state management."
+  },
+  {
+    "title": "react-redux",
+    "description": "Official React bindings for Redux."
+  },
+  {
+    "title": "redux-toolkit",
+    "description": "Standard way to write Redux logic."
+  },
+  {
+    "title": "react-i18next",
+    "description": "Internationalization for React using i18next."
+  },
+  {
+    "title": "react-player",
+    "description": "A React component for playing media."
+  },
+  {
+    "title": "react-dropzone",
+    "description": "Simple HTML5 drag-drop file upload zone."
+  },
+  {
+    "title": "react-use",
+    "description": "Collection of essential React hooks."
+  },
+  {
+    "title": "usehooks-ts",
+    "description": "Useful TypeScript hooks for React apps."
+  },
+  {
+    "title": "react-calendar",
+    "description": "Calendar component for React apps."
+  },
+  {
+    "title": "react-date-picker",
+    "description": "Flexible date picker for React."
+  },
+  {
+    "title": "react-content-loader",
+    "description": "SVG placeholders while loading content."
+  },
+  {
+    "title": "react-responsive",
+    "description": "Media queries in React apps."
+  },
+  { "title": "react-chartjs-2", "description": "Chart.js wrapper for React." },
+  {
+    "title": "recharts",
+    "description": "Charting library built on React components."
+  },
+  {
+    "title": "react-grid-layout",
+    "description": "A draggable and resizable grid layout."
+  },
+  {
+    "title": "react-virtual",
+    "description": "Rendering huge lists efficiently in React."
+  },
+  { "title": "react-pdf", "description": "Display PDFs in React apps." },
+  {
+    "title": "react-avatar",
+    "description": "Generate avatars in React easily."
+  },
+  {
+    "title": "react-hot-toast",
+    "description": "Highly customizable, lightweight toast library."
+  },
+  {
+    "title": "react-loading-skeleton",
+    "description": "Create loading skeletons easily."
+  },
+  {
+    "title": "react-use-gesture",
+    "description": "Gestures for the modern web."
+  },
+  {
+    "title": "react-confetti",
+    "description": "Celebrate with confetti in your app."
+  },
+  {
+    "title": "react-lottie",
+    "description": "Render Adobe After Effects animations in React."
+  },
+  {
+    "title": "react-credit-cards",
+    "description": "Beautiful credit card form component."
+  },
+  {
+    "title": "react-copy-to-clipboard",
+    "description": "Copy text to clipboard easily."
+  },
+  {
+    "title": "react-spinners",
+    "description": "A collection of loading spinner components."
+  },
+  {
+    "title": "react-modal",
+    "description": "Accessible modal dialog component."
+  },
+  { "title": "react-tooltip", "description": "Tooltips for React apps." },
+  {
+    "title": "react-image-gallery",
+    "description": "Responsive image and video gallery."
+  },
+  {
+    "title": "react-masonry-css",
+    "description": "Responsive masonry layout for React."
+  },
+  {
+    "title": "react-textarea-autosize",
+    "description": "Auto-resizing textarea component."
+  },
+  {
+    "title": "react-json-view",
+    "description": "Interactive JSON viewer component."
+  },
+  {
+    "title": "react-slick",
+    "description": "Carousel component powered by slick-carousel."
+  }
+]
